@@ -6,7 +6,7 @@ Tools:
 - GitHub
 
 Test Flow:
-Login → Select Product → Add to Cart → Place Order
+Launch > Login > Select Product → Add to Cart → Place Order
 
 Load:
 10 users
